@@ -45,7 +45,7 @@ Press the join button to join the server:
 
 
 ## Features
-
+- Quick Deploy
 - Ultraviolet
 - Nice game library
 - Tab Cloaks
